@@ -1,0 +1,24 @@
+/* write a program to print first 10 even numbers start with 2*/
+
+
+
+public class javaApplication4{
+
+    public static void main(String[] args) {
+
+
+
+
+       int evenNumber = 2;
+       int i=0;
+
+   while(i<10)
+    {
+   System.out.printIn(evenNumber);
+   evenNumber= evenNumber +2;
+   i++
+    }
+
+
+    }
+}
